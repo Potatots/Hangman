@@ -1,0 +1,213 @@
+academy
+admiral
+advance
+aircraft
+aircraft carrier
+Air Force
+ally
+ammo
+ammunition
+amphibious vehicle
+armistice
+armor
+armoured vehicle
+arms
+army
+arrow
+arsenal
+artillery
+assault
+at ease
+attack
+attention
+ballistic
+base
+battalion
+battle
+battlefield
+battleship
+bayonnet
+besiege
+billet
+bivouac
+bomb
+bombard
+bombardment
+bow and arrow
+brig
+brigade
+bullet
+cadet
+camouflage
+camp
+cannon
+cannon ball
+canteen
+captain
+capture
+carrier
+casualty
+catapult
+cavalry
+chaplain
+coast guard
+colonel
+combat
+command
+commander
+commanding officer
+commission
+company
+conflict
+conquest
+conscription
+convoy
+corporal
+corps
+covert
+crew
+decode
+defeat
+defend
+defense
+destroyer
+detonate
+division
+dog tags
+draft
+encampment
+encode
+enemy
+engage
+enlist
+ensign
+epaulette
+evacuate
+explosive
+field hospital
+field marshal
+fight
+fire
+fleet
+force
+formation
+fort
+fortification
+furlough
+garrison
+general
+Geneva Convention
+grenade
+grenade launcher
+grunt
+guerilla
+gun
+gunner
+gunpowder
+headquarters
+helmet
+honor
+hospital
+howitzer
+infantry
+injury
+insignia
+intelligence
+invade
+invasion
+jeep
+jet
+kill
+lance corporal
+leave
+lieutenant
+lose
+machete
+major
+marines
+medal
+medic
+marksman
+mess hall
+MIA
+midshipman
+military
+mine
+missile
+mortar
+munition
+musket
+national security
+navy
+neutral
+night-vision goggles
+offense
+officer
+ordnance
+parachute
+paratrooper
+peace
+peace treaty
+petty officer
+plane
+platoon
+post
+POW
+prisoner of war
+private
+PT boat
+Purple Heart
+quartermaster
+radar
+rank
+reconnoiter
+recruit
+regiment
+rescue
+reserves
+retreat
+ribbon
+rifle
+rocket artillery
+sabotage
+sailor
+salute
+salvo
+seaman
+sergeant
+service
+shell
+shoot
+shot
+siege
+sniper
+soldier
+spear
+specialist
+squad
+squadron
+staff
+star
+stockade
+submarine
+surrender
+tactical
+tactics
+tank
+theater
+tomahawk
+torpedo
+troops
+truce
+uniform
+unit
+veteran
+volley
+war
+warfare
+warrant officer
+warrior
+weapon
+win
+wound
+Zulu time

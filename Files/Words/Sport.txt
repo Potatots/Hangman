@@ -1,0 +1,149 @@
+archery
+arena
+arrow
+athlete
+athletics
+ball
+base
+baseball
+basketball
+bat
+baton
+batter
+bicycle
+bike
+bocce
+bow
+bowling
+bunt
+catch
+catcher
+champion
+cleats
+club
+competition
+competitor
+cross country
+curling
+cycling
+dart
+darboard
+defense
+diamond
+discus
+dive
+epee
+equipment
+exercise
+field
+fielder
+football
+game
+gear
+go
+goal
+goalie
+golf
+guard
+gym
+gymnastics
+halftime
+handball
+hang gliding
+hardball
+helmet
+high jump
+hole-in-one
+home
+home plate
+home team
+hockey
+hoop
+ice skates
+infield
+inline skates
+inning
+javelin
+jog
+judo
+jump
+jump rope
+karate
+kneepads
+league
+lose
+luge
+major league
+martial arts
+mat
+medal
+minor league
+mitt
+move
+MVP
+net
+offense
+Olympics
+out
+outfield
+paddle
+ping pong
+pitch
+pitcher
+play
+player
+playoffs
+pole
+polo
+pool
+puck
+quarter
+quarterback
+race
+racket
+referee
+relay
+ride
+roller skates
+rugby
+run
+score
+scoreboard
+scuba
+shortstop
+ski
+sled
+snowboard
+soccer
+softball
+somersault
+sport
+sportsmanship
+squash
+stadium
+stick
+strike
+stroke
+swim
+table tennis
+target
+team
+teammate
+tee
+tennis
+tetherball
+throw
+tie
+track and field
+trampoline
+umpire
+unicycle
+uniform
+vault
+visiting team
+volley
+volley ball
+walk
+waterski
+wetsuit
+win
